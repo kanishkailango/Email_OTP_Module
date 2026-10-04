@@ -1,0 +1,5 @@
+Flask
+requests
+streamlit
+psycopg2-binary
+pytest
